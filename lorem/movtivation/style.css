@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    text-align: center;
+}
+.developer{
+  border: 5px solid white;
+  width: 100%;   
+}
+.developer2{
+    width: 70%;
+    border: 5px solid white;
+}
+.arrow{
+    width: 20%;
+}
